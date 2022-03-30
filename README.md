@@ -6,7 +6,7 @@ This repo is meant to serve as a respository of all the systems I have developed
 
 It is broken up into the following sections:
 
-1. People Management
+1. [People Management](./people-management)
 2. Team Workflows
 3. Software Design & Architecture
 4. Code Management
