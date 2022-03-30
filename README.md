@@ -10,3 +10,4 @@ It is broken up into the following sections:
 2. Team Workflows
 3. Software Design & Architecture
 4. Code Management
+5. Resources
